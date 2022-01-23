@@ -11,18 +11,11 @@ public class Main {
         double wiek = 27.11;
         boolean zmiennaBoolean = true;
 
-        /*   zad.1 zadeklaruj i zainicjalizuj zmienne różnych typów i wyświetl w konsoli (im więcej tym lepiej ;) ) */
         System.out.println(imie1);
         System.out.println(zmienna1);
         System.out.println(wiek);
         System.out.print(zmiennaBoolean);
 
-        /*
-         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
-         *    mnożenia, dziealenia i modulo na zmiennych:
-         *    a) liczbaA i liczbaB, dowolne liczby calkowite (int),
-         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
-         *  */
 
 
         //cw2
